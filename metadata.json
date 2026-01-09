@@ -1,0 +1,7 @@
+{
+  "name": "HireAI Interview Simulator",
+  "description": "A high-fidelity AI-powered interview simulation platform that provides adaptive questioning, real-time voice feedback, and performance analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
